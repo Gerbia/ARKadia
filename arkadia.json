@@ -18,13 +18,16 @@
 			{
 				"layout": 2,
 				"buttontext": "Bienvenido",
-				"imageurl": "https://i.postimg.cc/9MkrVHJG/f1.png",
+				"imageurl": "https://i.postimg.cc/9MkrVHJG",
 				"content": [
 					{
 						"title": "Bienvenido a ARKadia",
 						"text": "Saludos ARKadiano, Bienvenido a la experiencia definitiva de ARK Ascended. \r\n\r\n¿Que nos diferencia?\r\n\r\n- <TextStyle.Green>FULL PVE</>: Disfruta del contenido del juego sin la presion constante de ser radiado.\r\n\r\n- <TextStyle.Green>9 Mapas</>: Podras moverte libremente ente los mapas de Astraeos, Extinction, Aberratiosn, Lost Colony, Scorched, Ragnarok, Valguero, The Center y por supuesto The Island\r\n\r\n- <TextStyle.Green>Transferencias</>: Puedes mover libremente de un mapa a otro elemento, artefactos y tributos.\r\n\r\n- <TextStyle.Green>Comunidad Latina</>: In espacio pensado por y para jugadores de habla hispana, aunque todos son bienvenidos.\r\n\r\n \r\n\r\nGracias por ser parte de ARKadia!!!"
 					},
-					
+					{
+						"title": "",
+						"text": ""
+					}
 				]
 			},
 			{
