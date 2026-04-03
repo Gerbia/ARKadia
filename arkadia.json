@@ -18,7 +18,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Bienvenido",
-				"imageurl": "https://i.postimg.cc/9MkrVHJG/f1.png",
+				"imageurl": "https://i.postimg.cc/nr6nQxWs/bienvenido_FF.png",
 				"content": [
 					{
 						"title": "Bienvenido a ARKadia",
@@ -33,7 +33,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Server",
-				"imageurl": "https://i.postimg.cc/9MkrVHJG/f1.png",
+				"imageurl": "https://i.postimg.cc/HLpdMB6S/info_FF.png",
 				"content": [
 					{
 						"title": "Información del Server",
@@ -44,7 +44,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Reglas",
-				"imageurl": "https://i.postimg.cc/9MkrVHJG/f1.png",
+				"imageurl": "https://i.postimg.cc/9F5MMtj5/reglas_FF.png",
 				"content": [
 					{
 						"title": "Reglas de ARKadia",
@@ -55,7 +55,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Vips",
-				"imageurl": "https://i.postimg.cc/9MkrVHJG/f1.png",
+				"imageurl": "https://i.postimg.cc/XYnYKjJN/vips_FF.png",
 				"content": [
 					{
 						"title": "Rangos VIPs",
@@ -67,15 +67,7 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-			},
-			{
-				"text": "Wiki",
-				"url": "https://wiki.wbui2.de"
-			},
-			{
-				"text": "Github",
-				"url": "https://github.com"
+				"url": "https://discord.gg/KxCEDNJmwm"
 			}
 		],
 		"version": 2
